@@ -1,0 +1,11 @@
+# WorkBuddy 本地数据
+.workbuddy/
+
+# Vivado 生成物 / 构建中间产物
+.Xil/
+project_1.cache/
+project_1.hw/
+project_1.ip_user_files/
+project_1.sim/
+vivado*.log
+vivado*.jou
